@@ -62,6 +62,4 @@ curl -k https://127.0.0.1:8080/
 
 MIT
 
----
 
-Se vuoi, posso anche aggiornare l'header del file Python con il nome nuovo e la docstring coerente.
